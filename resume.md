@@ -198,8 +198,23 @@ What else
 * Hobbies
 
      * Orienteering and adventure races
-     * Mapping, OpenStreetMap
+     * Weekly Talks organizer ans speaker
      * Open data, free and open source software communities
+     * Mapping, OpenStreetMap
+
+**Weekly Talks**
+
+Weekly Talks is a local community and regular meetups on topics all around software engineering and development.
+
+In 2016 we covered a diverse set of topics: Serverless, React.js, Angular 2, Elasticsearch, JavaScript VMs, REST (patterns and anti-patterns), ESLint, redux-saga on server-side, RDF, SPARQL and ontologies, styling React.js apps; client-side databases PouchDB, LevelUP; Babel, Progressive Web Apps, modern Node.js debugging.
+
+We made a special event about rapid app development right before Garage48 hackathon, participated in it, and returned with a mini-conference showcasing experience of multiple startups from Grodno, and people who break the status quo.
+
+2017 started with talks on functional programming, tools for Node.js web apps, Big Data review, R, Node.js for IoT, Johnny-Five + Node-RED + Arduino.
+
+Latest event on modern React ecosystem and workflow processes attracted more than 70 developers. We covered React itself, Storybook, Jest, Flow and Storyshots.
+
+--- from [2016 end-of-year roundup](https://www.linkedin.com/feed/update/urn:li:activity:6248233337165615104) post
 
 ----
 
